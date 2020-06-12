@@ -1,4 +1,4 @@
-# 防盜小保鑣 (1 號 Micro:bit)
+# 防盜小保鑣 (2號 Micro:bit)
 
 ## Step 1
 
