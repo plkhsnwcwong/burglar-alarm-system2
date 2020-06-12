@@ -1,5 +1,5 @@
 {
-    "name": "burglar-alarm-system",
+    "name": "burglar-alarm-system1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "burglar-alarm-system.md"
     ],
     "testFiles": [
         "test.ts"
