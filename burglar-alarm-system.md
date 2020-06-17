@@ -1,4 +1,4 @@
-# 防盜小保鑣 (2號 Micro:bit)
+# 防盜小保鑣 (2號 Micro:bit) 發送訊號
 
 ## Step 1
 
@@ -73,7 +73,7 @@ basic.forever(function () {
 ```
 
 ## Step 8
-點選「廣播」,拖曳「廣播發送數字」到「那麼」的右面。
+點選「廣播」,拖曳「廣播發送數字」到「那麼」的下面。
 ```blocks
 radio.setGroup(20)
 basic.forever(function () {
